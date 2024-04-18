@@ -1,0 +1,15 @@
+.font{
+    font-family: cursive;
+    text-align: center;
+    /* color: #00ffff; */
+}
+
+.porta{
+    display: block;
+    margin: auto;
+}
+body{
+    background-color: black;
+}
+
+
