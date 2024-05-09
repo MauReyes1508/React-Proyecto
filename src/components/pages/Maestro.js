@@ -1,9 +1,10 @@
 import React from "react";
-import Card from "../Card";
+/* import Card from "../Card"; */
 import Hola from "../Saludo";
 import goku from "../image/goku2.jpg"
 import Iteracion from "../Itinerante"
 import Addb from "../boton";
+
 
 export default class Maestro extends React.Component{
     constructor(props){
